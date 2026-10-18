@@ -1,0 +1,2 @@
+# premium-hew-beam-001-broadaxe-beam-hewing-progress
+Ever lost track of which side of a beam you last hewed, or struggled to remember the exact dimensions of a log after a long day in the woods? The Broadaxe Beam Hewing Progress Log is your digital hewing journal—designed to capture every pass, every measurement, and every moment of your craft without breaking your flow.  This Notion template solves
